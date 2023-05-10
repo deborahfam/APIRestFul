@@ -1,0 +1,16 @@
+*.obj
+*.dll
+*.exe
+*.pdb
+*.user
+*.vscode
+*.vs
+/obj/
+/bin/
+
+# archivos de caché de .NET
+*.cache
+
+# carpetas de caché de .NET Core
+**/bin/
+**/obj/
